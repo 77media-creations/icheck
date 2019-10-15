@@ -215,11 +215,7 @@
                 }
               }
 
-              if (_mobile) {
-                event.stopPropagation();
-              } else {
-                return false;
-              }
+              event.stopPropagation();
             }
           });
         }
@@ -291,11 +287,7 @@
               }
             }
 
-            if (_mobile) {
-              event.stopPropagation();
-            } else {
-              return false;
-            }
+            event.stopPropagation();
           }
         });
       });
