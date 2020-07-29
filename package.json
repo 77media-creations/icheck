@@ -1,0 +1,20 @@
+{
+  "name": "77media-icheck",
+  "version": "1.0.3",
+  "description": "Refer to the [iCheck website](http://fronteed.com/iCheck/) for examples.",
+  "main": "icheck.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/77media-creations/icheck.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/77media-creations/icheck/issues"
+  },
+  "homepage": "https://github.com/77media-creations/icheck#readme"
+}
